@@ -7,6 +7,9 @@
 		"type": "git",
 		"url": "https://github.com/jaysoo/react-native-parallax-scroll-view"
 	},
+	"dependencies":{
+		"prop-types": "^15.5.10"
+	},
 	"files": [
 		"src",
 		"demo.ios.gif",
